@@ -1,0 +1,14 @@
+id,name,node_from,node_to,form_of_way
+1,,1,2,street
+2,,2,3,street
+3,,3,4,street
+4,,4,5,street
+5,,5,8,street
+6,,8,9,street
+7,,9,1,street
+8,,3,6,street
+9,,6,7,street
+10,L260,3,5,Landstraße
+11,L228,1,7,Landstraße
+12,L229,5,8,Landstraße
+13,B62,8,1,Bundesstraße
