@@ -13,6 +13,7 @@ Data is persisted in the docker area, check path with
 
 ## Examples
 
+- [Minimal example](minimal_example/queries.md)
 - [Gleisnetz Queries](gleisnetz/queries.md)
 
 
